@@ -10,9 +10,8 @@
 
 ## Installation
 
-This is an npm package, to install this package, use the following npm command:
+This is an npm package. to install this package, use the following npm command:
 
 ```bash
 npm i visualization-linear-regression
 ```
-
